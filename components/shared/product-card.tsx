@@ -13,7 +13,7 @@ interface Props {
   className?: string;
 }
 
-export const PrpoductCard: React.FC<Props> = ({
+export const ProductCard: React.FC<Props> = ({
   id,
   name,
   price,
@@ -42,7 +42,7 @@ export const PrpoductCard: React.FC<Props> = ({
 
           <Button variant="secondary" className="text-base font-bold">
             <Plus size={20} className="mr-1" />
-            Добавить
+            Add
           </Button>
         </div>
       </Link>
