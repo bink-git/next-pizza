@@ -41,7 +41,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 2,
                     name: 'Margherita',
                     price: 10,
                     imageUrl:
@@ -49,7 +49,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 3,
                     name: 'Margherita',
                     price: 10,
                     imageUrl:
@@ -57,7 +57,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 4,
                     name: 'Margherita',
                     price: 10,
                     imageUrl:
@@ -65,7 +65,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 5,
                     name: 'Margherita',
                     price: 10,
                     imageUrl:
@@ -73,7 +73,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 6,
                     name: 'Margherita',
                     price: 10,
                     imageUrl:
@@ -81,7 +81,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 7,
                     name: 'Margherita',
                     price: 10,
                     imageUrl:
@@ -89,7 +89,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 8,
                     name: 'Margherita',
                     price: 10,
                     imageUrl:
@@ -97,7 +97,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 16,
                     name: 'Margherita',
                     price: 10,
                     imageUrl:
@@ -105,7 +105,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 15,
                     name: 'Margherita',
                     price: 10,
                     imageUrl:
@@ -113,7 +113,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 14,
                     name: 'Margherita',
                     price: 10,
                     imageUrl:
@@ -121,7 +121,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 13,
                     name: 'Margherita',
                     price: 10,
                     imageUrl:
@@ -131,11 +131,11 @@ export default function Home() {
                 ]}
               />
               <ProductsGroupList
-                title="Burgers"
-                categoryId={1}
+                title="Sets"
+                categoryId={2}
                 items={[
                   {
-                    id: 1,
+                    id: 11,
                     name: 'Margherita',
                     price: 10,
                     imageUrl:
@@ -143,7 +143,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 12,
                     name: 'Margherita',
                     price: 10,
                     imageUrl:
@@ -151,7 +151,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 13,
                     name: 'Margherita',
                     price: 10,
                     imageUrl:
@@ -159,7 +159,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 14,
                     name: 'Margherita',
                     price: 10,
                     imageUrl:
@@ -167,7 +167,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 15,
                     name: 'Margherita',
                     price: 10,
                     imageUrl:
@@ -175,7 +175,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 16,
                     name: 'Margherita',
                     price: 10,
                     imageUrl:
@@ -183,7 +183,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 17,
                     name: 'Margherita',
                     price: 10,
                     imageUrl:
@@ -191,7 +191,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 18,
                     name: 'Margherita',
                     price: 10,
                     imageUrl:
@@ -199,7 +199,7 @@ export default function Home() {
                     items: [{ price: 550 }],
                   },
                   {
-                    id: 1,
+                    id: 19,
                     name: 'Margherita',
                     price: 10,
                     imageUrl:
